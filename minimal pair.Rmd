@@ -1,0 +1,48 @@
+---
+title: "Minimal Pair"
+subtitle: "Amazing Talker"
+author: "Michelle W."
+institute: ""
+date: "2020/02/18 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+class: inverse, center, middle
+
+# Get Started
+
+---
+
+class: center, top
+
+background-image: url(http://4.bp.blogspot.com/-bmMQs9OMHwA/T5YwmvEt62I/AAAAAAAAAEQ/jFKepTJDV9g/s400/1000px-Cardinal_vowel_tongue_position-front-wide_svg.jpg)
+
+background-size: 60%
+background-position: 50% 80%
+
+# Lip and Tongue placement
+
+???
+
+Image credit: [English in Vancouver](http://englishinvancouver.blogspot.com/2012/04/vowel-sounds_22.html)
+
+---
+class: center, middle
+
+# Can you hear the difference?
+
+### /ʃaː.'riŋ.ɡan/
+
+
+
