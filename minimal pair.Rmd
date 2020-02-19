@@ -42,7 +42,9 @@ class: center, middle
 
 # Can you hear the difference?
 
-### /ʃaː.'riŋ.ɡan/
+--
+
+### sit seat set
 
 
 
