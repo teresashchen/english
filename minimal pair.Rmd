@@ -235,7 +235,7 @@ class: inverse, center, middle
 ## run round
 ## heart hut
 ## shut shot
-## lauch lunch
+## launch lunch
 
 
 
@@ -254,7 +254,7 @@ class: inverse, center, middle
 ## run round
 ## heart hut
 ## shut shot
-## lauch lunch
+## launch lunch
 ## spoon
 
 
